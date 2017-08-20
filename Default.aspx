@@ -33,7 +33,7 @@
                 <td>&nbsp;</td>
             </tr>
             </table>
-            <cc1:GMap ID="GMap1" runat="server" Key="AIzaSyAtMoP-Tj3R1ecOxR9g0oQmCGs1LKmDDsQ" Width="90%" Height="900px"/>
+            <cc1:GMap ID="GMap1" runat="server" Key="Your API Code" Width="90%" Height="900px"/>
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
